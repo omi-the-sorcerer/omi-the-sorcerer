@@ -1,16 +1,32 @@
-### Hi there 👋
+# Awesome Backend Wizard 🧙‍♂️
 
-<!--
-**omi-the-sorcerer/omi-the-sorcerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Omar Sánchez, a backend developer and DevOps enthusiast with a love for cats and all things magical. 🐱✨
 
-Here are some ideas to get you started:
+## 🧙‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Backend Developer & DevOps Engineer
+- 😺 Cat lover
+- 🧙‍♂️ Wizard in the making
+
+## 🚀 Skills
+
+- Backend Development: Node.js, Python, PHP
+- DevOps: Docker, Kubernetes, CI/CD
+
+## 🌐 Connect with Me
+
+- 📧 Email: omarsanpi@gmail.com
+- 🐦 Twitter: [@OmiTheSorcerer](https://twitter.com/OmiTheSorcerer)
+- 💼 LinkedIn: [Omar Sanchez Pizarro](https://www.linkedin.com/in/omarsanpi/)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omi-the-sorcerer&show_icons=true&theme=radical)
+
+## 🌟 Pinned Repositories
+
+[![Awesome Backend Wizard](https://github-readme-stats.vercel.app/api/pin/?username=omi-the-sorcerer&repo=omicat&theme=radical)](https://github.com/tuusuario/omicat)
+
+---
+
+Thanks for visiting my magical corner of GitHub! May your code be bug-free and your deploys be swift. 🚀✨
