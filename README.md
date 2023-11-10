@@ -42,7 +42,7 @@
 
 ### 🌟 Pinned Repositories
 
-[![Awesome Backend Wizard](https://github-readme-stats.vercel.app/api/pin/?username=omi-the-sorcerer&repo=omicat&theme=radical)](https://github.com/tuusuario/omicat)
+[![Awesome Backend Wizard](https://github-readme-stats.vercel.app/api/pin/?username=omi-the-sorcerer&repo=omicat&theme=radical)](https://github.com/omi-the-sorcerer/omicat)
 
 ---
 <div align="center">
