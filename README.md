@@ -1,9 +1,3 @@
-<style>
-  img[fill] {
-    background-color: #FFFFFF;
-  }
-</style>
-
 <h1 align="center">👋 Hello, code sorcerer 🧙‍♂️!</h1>
 <div align="center">
   <br>
