@@ -29,7 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="37" height="37"/>
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="37" height="37"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="37" height="37"/>
+    <img src="symfony.svg" width="37" height="37"/>
 </div>
 </div>
 
