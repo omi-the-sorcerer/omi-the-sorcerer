@@ -1,3 +1,9 @@
+<style>
+  img[fill] {
+    background-color: #FFFFFF;
+  }
+</style>
+
 <h1 align="center">👋 Hello, code sorcerer 🧙‍♂️!</h1>
 <div align="center">
   <br>
@@ -12,16 +18,18 @@
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width=200>
   <br> <br> <br>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="nodejs" alt="nodejs" width="37" height="37"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" alt="python" width="37" height="37"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="php" alt="php" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="37" height="37"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="37" height="37"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="kubernetes" width="37" height="37"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="37" height="37"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="37" height="37"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="37" height="37"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="37" height="37"/>
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="37" height="37"/>
+    <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="37" height="37"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="37" height="37"/>
 </div>
 </div>
 
